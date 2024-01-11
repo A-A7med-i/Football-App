@@ -9,7 +9,7 @@ To run the visualization app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-      git clone
+      git clone https://github.com/A-A7med-i/Football-App.git
    ```
  
 2. Navigate to the project directory:
