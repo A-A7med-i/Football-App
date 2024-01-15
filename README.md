@@ -34,5 +34,9 @@ To run the visualization app locally, follow these steps:
 ## Data
 The data used in this visualization app is from the World Cup 2018. The dataset contains various attributes related to the matches, teams, and players.
 
+## Accessing the Data
+You can access the dataset from Kaggle using the following URL:
+[FIFA 2018](https://www.kaggle.com/datasets/mathan/fifa-2018-match-statistics)
+
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions or improvements, please create an issue or submit a pull request.
